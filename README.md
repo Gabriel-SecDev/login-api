@@ -3,6 +3,10 @@
 > **EN:** Secure authentication REST API built with Fastify, PostgreSQL and JWT.  
 > **PT:** API REST de autenticação segura construída com Fastify, PostgreSQL e JWT.
 
+## 💡 Why this project matters
+
+This project demonstrates how real-world authentication systems are built and secured against common attacks like brute force, SQL injection, and token abuse.
+
 ---
 
 ## 🌐 Overview | Visão Geral
@@ -161,7 +165,8 @@ curl -X POST http://localhost:3000/auth/logout \
 ## 👤 Author | Autor
 
 **GabrielSecDev** — [@gbzero777](https://github.com/Gabriel-SecDev)  
-Bug Bounty Researcher | Web Security | ADS Student
+Backend Developer | Cybersecurity Enthusiast  
+Focused on building secure and scalable systems
 
 ---
 
